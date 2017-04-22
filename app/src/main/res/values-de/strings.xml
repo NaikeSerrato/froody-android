@@ -42,6 +42,7 @@
   <string name="share_my_entry_at_froody">Mein Eintrag bei der Froody App</string>
   <string name="share_chooser_share_entry">Eintrag teilen</string>
   <string name="nav__my_entries">Meine Einträge</string>
+  <string name="error_cannot_publish_entry">Fehler: Konnte Eintrag nicht veröffentlichen</string>
   <!-- Info -->
   <string name="show_licenses">Lizenzen anzeigen</string>
   <string name="show_gplv3_license">GNU GPLv3 Lizenz anzeigen</string>
