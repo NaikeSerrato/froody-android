@@ -42,6 +42,7 @@
   <string name="share_my_entry_at_froody">Mine emner i Froody-applikationen</string>
   <string name="share_chooser_share_entry">Del emne</string>
   <string name="nav__my_entries">Mine Emner</string>
+  <string name="error_cannot_publish_entry">Fejl: Kan ikke publicere emne</string>
   <!-- Info -->
   <string name="show_licenses">Vis licenser</string>
   <string name="show_gplv3_license">Vis GNU GPLv3 licens</string>
