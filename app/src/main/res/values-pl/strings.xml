@@ -42,6 +42,7 @@
   <string name="share_my_entry_at_froody">Moje wpisy we Froody</string>
   <string name="share_chooser_share_entry">Udostępnij wpis</string>
   <string name="nav__my_entries">Moje wpisy</string>
+  <string name="error_cannot_publish_entry">Błąd: Nie można opublikować wpisu</string>
   <!-- Info -->
   <string name="show_licenses">Pokaż licencje</string>
   <string name="show_gplv3_license">Pokaż licencję GNU GPLv3</string>
