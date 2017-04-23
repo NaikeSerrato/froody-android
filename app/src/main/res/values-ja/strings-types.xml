@@ -13,6 +13,7 @@
   <!-- Distribution Types -->
   <string name="distribution_type__sale">販売</string>
   <string name="distribution_type__swap">交換</string>
+  <string name="distribution_type__voluntary_donation">自主的な寄付</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__miscellaneous">その他</string>
   <string name="entry_type__special__water">水</string>
