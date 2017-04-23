@@ -42,6 +42,7 @@
   <string name="share_my_entry_at_froody">Froody アプリで、私のエントリ</string>
   <string name="share_chooser_share_entry">エントリを共有</string>
   <string name="nav__my_entries">私のエントリ</string>
+  <string name="error_cannot_publish_entry">エラー: エントリを公開できません</string>
   <!-- Info -->
   <string name="show_licenses">ライセンスを表示</string>
   <string name="show_gplv3_license">GNU GPLv3 ライセンスを表示</string>
