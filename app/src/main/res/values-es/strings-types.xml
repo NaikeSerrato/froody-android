@@ -13,6 +13,7 @@
   <!-- Distribution Types -->
   <string name="distribution_type__sale">Venta</string>
   <string name="distribution_type__swap">Cambiar</string>
+  <string name="distribution_type__free">Gratuita</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__miscellaneous">Diversos</string>
   <string name="entry_type__special__water">Agua</string>
