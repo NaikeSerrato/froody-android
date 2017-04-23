@@ -13,6 +13,7 @@
   <!-- Distribution Types -->
   <string name="distribution_type__sale">Eladás</string>
   <string name="distribution_type__swap">Csere</string>
+  <string name="distribution_type__free">Ingyen</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__miscellaneous">Egyéb</string>
   <string name="entry_type__special__water">Víz</string>
