@@ -33,7 +33,7 @@
   <string name="donate_bitcoin">Донирајте Биткоине</string>
   <string name="duration_days_left">Преостало дана: %1$d</string>
   <!-- Publish -->
-  <string name="suggested">Предложено</string>
+  <string name="suggested">Понуђено</string>
   <string name="select_froody">изаберите шта нудите&#8230;</string>
   <string name="hint__description__enter_here">унесите опис овде (нпр. квалитет, за прављење мармеладе, подврста&#8230;)</string>
   <string name="hint__contact__enter_here">унесите податке за контакт (требало би да садржи телефон или е-адресу)</string>
