@@ -3,7 +3,22 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Изображение</string>
+  <string name="reset">Сброс</string>
+  <string name="settings">Настройки</string>
+  <string name="more">Ещё</string>
+  <string name="description">Описание</string>
+  <string name="location">Местонахождение</string>
+  <string name="error">Ошибка</string>
+  <string name="all">Все</string>
+  <string name="contributors">Разработчики</string>
+  <string name="about_">О приложении</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Поиск&#8230;</string>
+  <string name="distribution_type">Распределение</string>
+  <string name="certification">Сертификация</string>
+  <string name="contact">Контакт</string>
+  <string name="maintainers">Сопровождающие</string>
   <!-- Main -->
   <!-- Publish -->
   <!-- Info -->
