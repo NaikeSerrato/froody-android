@@ -28,6 +28,9 @@
   <string name="share_entry_ask">Поделиться записью?</string>
   <string name="donate_bitcoin">Пожертвовать Bitcoin</string>
   <!-- Publish -->
+  <string name="suggested">Предложено</string>
+  <string name="select_froody">Выбрать Froody&#8230;</string>
+  <string name="hint__description__enter_here">Описание: введите информацию о продукте (количество, размер, качество, прочие характеристики...)</string>
   <!-- Info -->
   <!-- Location -->
 </resources>
