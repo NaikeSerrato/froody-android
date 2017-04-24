@@ -19,7 +19,14 @@
   <string name="certification">Сертификация</string>
   <string name="contact">Контакт</string>
   <string name="maintainers">Сопровождающие</string>
+  <string name="map">Карта</string>
+  <string name="blog">Блог</string>
+  <string name="license">Лицензия</string>
+  <string name="changelog">История изменений</string>
   <!-- Main -->
+  <string name="really_delete_entry">Вы действительно хотите удалить эту запись?</string>
+  <string name="share_entry_ask">Поделиться записью?</string>
+  <string name="donate_bitcoin">Пожертвовать Bitcoin</string>
   <!-- Publish -->
   <!-- Info -->
   <!-- Location -->
