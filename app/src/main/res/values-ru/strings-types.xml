@@ -28,7 +28,7 @@
   <string name="entry_type__hazelnut">Фундук</string>
   <string name="entry_type__milk">Молоко</string>
   <string name="entry_type__raspberry">Малина</string>
-  <string name="entry_type__walnut">Грецкий орех</string>
+  <string name="entry_type__walnut">Семена</string>
   <string name="entry_type__carrot">Морковь</string>
   <string name="entry_type__cereal">Зерновые</string>
   <string name="entry_type__chili">Перец</string>
@@ -49,4 +49,5 @@
   <string name="entry_type__wood">Лекарст. травы</string>
   <string name="entry_type__zucchini">Кабачки</string>
   <string name="entry_type__aubergine">Баклажаны</string>
+  <string name="entry_type__mango">Экзот. фрукты (овощи)</string>
 </resources>
