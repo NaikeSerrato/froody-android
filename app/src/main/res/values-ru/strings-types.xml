@@ -42,4 +42,11 @@
   <string name="entry_type__mushroom">Грибы</string>
   <string name="entry_type__orange">Апельсины</string>
   <string name="entry_type__peach">Персики</string>
+  <string name="entry_type__potato">Картофель</string>
+  <string name="entry_type__sapling">Саженцы</string>
+  <string name="entry_type__strawberry">Клубника</string>
+  <string name="entry_type__tomato">Помидоры</string>
+  <string name="entry_type__wood">Лекарст. травы</string>
+  <string name="entry_type__zucchini">Кабачки</string>
+  <string name="entry_type__aubergine">Баклажаны</string>
 </resources>
