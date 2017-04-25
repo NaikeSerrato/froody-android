@@ -9,7 +9,6 @@
   <!-- Certification Types -->
   <string name="certification_type__none">Нет</string>
   <string name="certification_type__bio">Биопродукт</string>
-  <string name="certification_type__demeter">др. сертификация</string>
   <!-- Distribution Types -->
   <string name="distribution_type__sale">Продажа</string>
   <string name="distribution_type__swap">Обмен</string>
