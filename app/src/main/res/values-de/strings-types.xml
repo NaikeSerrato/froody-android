@@ -58,4 +58,7 @@
   <string name="entry_type__pea">Erbse</string>
   <string name="entry_type__pepper">Paprika</string>
   <string name="entry_type__pumpkin">Kürbis</string>
+  <string name="entry_type__radish">Radieschen</string>
+  <string name="entry_type__salad">Salat</string>
+  <string name="entry_type__seed">Samen</string>
 </resources>
