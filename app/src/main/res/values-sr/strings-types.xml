@@ -56,4 +56,9 @@
   <string name="entry_type__garlic">бели лук</string>
   <string name="entry_type__onion">црни лук</string>
   <string name="entry_type__pea">грашак</string>
+  <string name="entry_type__pepper">папричице</string>
+  <string name="entry_type__pumpkin">бундева</string>
+  <string name="entry_type__radish">радич (црвени купус)</string>
+  <string name="entry_type__salad">салата</string>
+  <string name="entry_type__seed">семе</string>
 </resources>
