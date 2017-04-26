@@ -13,7 +13,6 @@
   <string name="distribution_type__sale">Verkauf</string>
   <string name="distribution_type__swap">Tausch</string>
   <string name="distribution_type__free">Gratis</string>
-  <string name="distribution_type__voluntary_donation">Freiwillige Spende</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__miscellaneous">Diverses</string>
   <string name="entry_type__special__water">Wasser</string>
