@@ -61,4 +61,5 @@
   <string name="entry_type__radish">Rzodkiewka</string>
   <string name="entry_type__salad">Sałata</string>
   <string name="entry_type__seed">Ziarno</string>
+  <string name="entry_type__soy_bean">Ziarna soi</string>
 </resources>
