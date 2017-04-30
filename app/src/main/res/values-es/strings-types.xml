@@ -53,4 +53,13 @@
   <string name="entry_type__avocado">Aguacate</string>
   <string name="entry_type__bean">Frijol</string>
   <string name="entry_type__blueberry">Mora azul</string>
+  <string name="entry_type__garlic">Ajo</string>
+  <string name="entry_type__onion">Cebolla</string>
+  <string name="entry_type__pea">Guisante</string>
+  <string name="entry_type__pepper">Pimiento</string>
+  <string name="entry_type__pumpkin">Calabaza</string>
+  <string name="entry_type__radish">Rábano</string>
+  <string name="entry_type__salad">Ensalada</string>
+  <string name="entry_type__seed">Semilla</string>
+  <string name="entry_type__soy_bean">Frijol de soya</string>
 </resources>
