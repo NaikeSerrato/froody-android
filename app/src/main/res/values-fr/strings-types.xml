@@ -56,8 +56,10 @@
   <string name="entry_type__garlic">Ail</string>
   <string name="entry_type__onion">Oignon</string>
   <string name="entry_type__pea">Pois</string>
+  <string name="entry_type__pepper">Poivron</string>
   <string name="entry_type__pumpkin">Citrouille</string>
   <string name="entry_type__radish">Radis</string>
   <string name="entry_type__salad">Salade</string>
   <string name="entry_type__seed">Graines</string>
+  <string name="entry_type__soy_bean">Soja</string>
 </resources>
