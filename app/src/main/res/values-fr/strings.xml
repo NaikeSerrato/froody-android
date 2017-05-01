@@ -22,6 +22,7 @@
   <string name="map">Carte</string>
   <string name="blog">Blog</string>
   <string name="license">Licence</string>
+  <string name="changelog">Journal des modifications</string>
   <!-- Main -->
   <string name="navigation_drawer_open">Ouvrir le menu</string>
   <string name="navigation_drawer_close">Fermer le menu</string>
@@ -29,6 +30,8 @@
   <string name="help_and_share"><![CDATA[Aider et partager]]></string>
   <string name="really_delete_entry">Souhaitez-vous vraiment supprimer cette entrée ?</string>
   <string name="share_entry_ask">Partager l\'entrée ?</string>
+  <string name="donate_bitcoin">Donner en Bitcoin</string>
+  <string name="duration_days_left">%1$d Jours restants</string>
   <!-- Publish -->
   <string name="suggested">Suggérés</string>
   <string name="select_froody">Choisir Froody&#8230;</string>
@@ -38,8 +41,11 @@
   <string name="share_my_entry_at_froody">Mon entrée sur l\'app Froody</string>
   <string name="share_chooser_share_entry">Partager l\'entrée</string>
   <string name="nav__my_entries">Mes entrées</string>
+  <string name="error_cannot_publish_entry">Erreur : impossible de publier l\'entrée</string>
   <!-- Info -->
   <string name="show_licenses">Afficher les licences</string>
+  <string name="show_third_party_licenses">Licences tierces</string>
+  <string name="more_information">En savoir plus</string>
   <!-- Location -->
   <string name="request_location">Demander la localisation</string>
   <string name="gps_locating_user">Localisation en cours&#8230;</string>
