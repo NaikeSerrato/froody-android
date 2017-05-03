@@ -5,7 +5,7 @@
   <!-- GPS Types -->
   <string name="gps_type__none">без локације</string>
   <string name="gps_type__previous">претходна локација</string>
-  <string name="gps_type__current">Tренутна локација</string>
+  <string name="gps_type__current">тренутна локација</string>
   <!-- Certification Types -->
   <string name="certification_type__none">нема</string>
   <string name="certification_type__bio">органски</string>
@@ -56,7 +56,7 @@
   <string name="entry_type__garlic">бели лук</string>
   <string name="entry_type__onion">црни лук</string>
   <string name="entry_type__pea">грашак</string>
-  <string name="entry_type__pepper">папричице</string>
+  <string name="entry_type__pepper">паприке</string>
   <string name="entry_type__pumpkin">бундева</string>
   <string name="entry_type__radish">радич (црвени купус)</string>
   <string name="entry_type__salad">салата</string>
