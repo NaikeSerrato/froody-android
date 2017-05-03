@@ -3,8 +3,8 @@
 <resources>
   <string name="unknown">непознато</string>
   <!-- GPS Types -->
-  <string name="gps_type__none">Без локације</string>
-  <string name="gps_type__previous">Претходна локација</string>
+  <string name="gps_type__none">без локације</string>
+  <string name="gps_type__previous">претходна локација</string>
   <string name="gps_type__current">Tренутна локација</string>
   <!-- Certification Types -->
   <string name="certification_type__none">нема</string>
