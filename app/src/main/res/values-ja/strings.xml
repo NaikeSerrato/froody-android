@@ -52,7 +52,6 @@
   <string name="request_location">場所をリクエスト</string>
   <string name="gps_locating_user">探しています&#8230;</string>
   <string name="address_most_near">付近</string>
-  <string name="error_bad_permissions">正常に機能させるため、Froody に場所のアクセスと、データの書き込みアクセス許可を与えてください。これらがなければアプリは使用できません。</string>
   <string name="show_map_on_current_location">現在の場所を地図に表示しますか?</string>
   <string name="zoom_out">縮小</string>
   <string name="cannot_locate_user">ユーザーの場所が見つかりません。システム設定で位置情報サービスを有効にしてください!</string>
