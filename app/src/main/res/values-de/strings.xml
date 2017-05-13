@@ -57,4 +57,9 @@
   <string name="zoom_out">Herauszoomen</string>
   <string name="cannot_locate_user">Konnte Benutzer nicht orten. Bitte Ortsdienste in den Systemeinstellungen einschalten!</string>
   <string name="error_couldnt_connect_or_register">Fehler: Konnte nicht zum Server verbinden um den Benutzer überprüfen.</string>
+  <string name="support_the_project">Projekt unterstützen</string>
+  <string name="translate">Übersetzen</string>
+  <string name="spread">Weitersagen</string>
+  <string name="report_bugs">Fehler\nmelden</string>
+  <string name="about_the_app">Über\ndie App</string>
 </resources>
