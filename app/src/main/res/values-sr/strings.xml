@@ -31,6 +31,7 @@
   <string name="really_delete_entry">Заиста желите да избришете унос?</string>
   <string name="share_entry_ask">Поделити унос?</string>
   <string name="share">Подели&#8230;</string>
+  <string name="donate_bitcoin">Донирајте\nБиткоине</string>
   <string name="duration_days_left">Преостало дана: %1$d</string>
   <string name="duration_days_left_text">Преостало дана</string>
   <!-- Publish -->
