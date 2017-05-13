@@ -31,6 +31,7 @@
   <string name="really_delete_entry">Möchtest du wirklich diesen Eintrag löschen?</string>
   <string name="share_entry_ask">Eintrag teilen?</string>
   <string name="share">Teilen&#8230;</string>
+  <string name="donate_bitcoin">Bitcoin\nspenden</string>
   <string name="duration_days_left">%1$d Tage verbleibend</string>
   <string name="duration_days_left_text">Tage verbleibend</string>
   <!-- Publish -->
