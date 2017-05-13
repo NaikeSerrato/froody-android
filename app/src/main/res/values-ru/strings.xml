@@ -36,7 +36,6 @@
   <string name="select_froody">Выбрать Froody&#8230;</string>
   <string name="hint__description__enter_here">Описание: введите информацию о продукте (количество, размер, качество, прочие характеристики...)</string>
   <string name="hint__contact__enter_here">Введите ваши контактные данные (например: № тел, электронную почту и т. д.)</string>
-  <string name="publish_entry">Опубликовать</string>
   <string name="limited_time_active_notice">Внимание! Запись будет доступна %1$d дней.</string>
   <string name="share_my_entry_at_froody">Мои записи во Froody</string>
   <string name="share_chooser_share_entry">Поделиться записью</string>
