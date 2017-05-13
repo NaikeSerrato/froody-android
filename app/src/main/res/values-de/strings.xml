@@ -39,6 +39,7 @@
   <string name="select_froody">Froody auswählen&#8230;</string>
   <string name="hint__description__enter_here">Beschreibung hier eingeben (z.B. Qualität, Nur für Marmelade, Unterart,&#8230;)</string>
   <string name="hint__contact__enter_here">Kontaktdaten hier eingeben (sollte zumindest Tel. Nr. oder E-Mail Adr. beinhalten)</string>
+  <string name="publish_entry_now">Jetzt veröffentlichen</string>
   <string name="limited_time_active_notice">Achtung! Die Eintragung ist ab jetzt für %1$d Tage verfügbar.</string>
   <string name="share_my_entry_at_froody">Mein Eintrag bei der Froody App</string>
   <string name="share_chooser_share_entry">Eintrag teilen</string>
@@ -63,4 +64,5 @@
   <string name="spread">Weitersagen</string>
   <string name="report_bugs">Fehler\nmelden</string>
   <string name="about_the_app">Über\ndie App</string>
+  <string name="error_incomplete_input">Unvollständige Eingabe</string>
 </resources>
