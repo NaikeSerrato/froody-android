@@ -63,4 +63,6 @@
   <string name="translate">Fordít</string>
   <string name="spread">Kétujjas\nnagyítás</string>
   <string name="report_bugs">Hibajelentés</string>
+  <string name="about_the_app">A programról</string>
+  <string name="error_incomplete_input">Hiba: Hiányos bemenet</string>
 </resources>
