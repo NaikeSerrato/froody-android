@@ -62,4 +62,8 @@
   <string name="error_couldnt_connect_or_register">Fejl: Kunne ikke forbinde til server for at tjekke brugeren.</string>
   <string name="support_the_project">Støt projektet</string>
   <string name="translate">Oversæt</string>
+  <string name="spread">Spred ordet</string>
+  <string name="report_bugs">Rapporter\nfejl</string>
+  <string name="about_the_app">Om</string>
+  <string name="error_incomplete_input">Fejl: ukomplet input</string>
 </resources>
