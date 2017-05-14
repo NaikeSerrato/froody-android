@@ -54,8 +54,14 @@
   <string name="request_location">Demander la localisation</string>
   <string name="gps_locating_user">Localisation en cours&#8230;</string>
   <string name="address_most_near">À proximité</string>
+  <string name="error_bad_permissions">Veuillez permettre à Froody d\'accéder à la localisation de votre appareil.\n\nSans cela, vous ne pourrez pas poster sur Froody et votre position sur la carte ne pourra être établie.\n\nVous pouvez vous localiser à nouveau avec le bouton de localisation sur la barre des tâches du haut.</string>
   <string name="show_map_on_current_location">Centrer la carte à l\'emplacement actuel ?</string>
   <string name="zoom_out">Dézoomer</string>
   <string name="cannot_locate_user">Localisation impossible. Veuillez activer les services de localisation dans les paramètres système !</string>
   <string name="error_couldnt_connect_or_register">Erreur : Impossible de se connecter au serveur pour vérifier l\'utilisateur.</string>
+  <string name="support_the_project">Apportez votre soutien au projet</string>
+  <string name="translate">Traduire</string>
+  <string name="report_bugs">Signaler\nbugs</string>
+  <string name="about_the_app">A propos\nde l\'application</string>
+  <string name="error_incomplete_input">Erreur: saisie incomplète</string>
 </resources>
