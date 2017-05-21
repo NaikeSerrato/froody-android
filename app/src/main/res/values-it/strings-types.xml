@@ -42,7 +42,7 @@
   <string name="entry_type__orange">Arance</string>
   <string name="entry_type__peach">Pesche</string>
   <string name="entry_type__potato">Patate</string>
-  <string name="entry_type__sapling">Alberelli</string>
+  <string name="entry_type__sapling">Piante</string>
   <string name="entry_type__strawberry">Fragole</string>
   <string name="entry_type__tomato">Pomodori</string>
   <string name="entry_type__wood">Legna</string>
@@ -56,10 +56,10 @@
   <string name="entry_type__garlic">Aglio</string>
   <string name="entry_type__onion">Cipolla</string>
   <string name="entry_type__pea">Piselli</string>
-  <string name="entry_type__pepper">Pepe</string>
+  <string name="entry_type__pepper">Peperoni</string>
   <string name="entry_type__pumpkin">Zucca</string>
   <string name="entry_type__radish">Ravanello</string>
   <string name="entry_type__salad">Insalate</string>
   <string name="entry_type__seed">Seme</string>
-  <string name="entry_type__soy_bean">Fagiolo della soia</string>
+  <string name="entry_type__soy_bean">Fagioli di soia</string>
 </resources>
