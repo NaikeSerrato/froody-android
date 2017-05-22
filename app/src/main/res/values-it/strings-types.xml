@@ -60,6 +60,6 @@
   <string name="entry_type__pumpkin">Zucca</string>
   <string name="entry_type__radish">Ravanello</string>
   <string name="entry_type__salad">Insalate</string>
-  <string name="entry_type__seed">Seme</string>
+  <string name="entry_type__seed">Semi</string>
   <string name="entry_type__soy_bean">Fagioli di soia</string>
 </resources>
