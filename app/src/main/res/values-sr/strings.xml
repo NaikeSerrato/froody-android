@@ -48,6 +48,7 @@
   <string name="error_cannot_publish_entry">Грешка: не могу да објавим унос</string>
   <!-- Info -->
   <string name="show_licenses">Прикажи лиценце</string>
+  <string name="show_license_of_app">Прикажи лиценцу програма</string>
   <string name="show_gplv3_license">Прикажи ГНУ ОЈЛ вер3 лиценцу</string>
   <string name="show_third_party_licenses">Прикажи лиценце треће стране</string>
   <string name="more_information">Више информација</string>
