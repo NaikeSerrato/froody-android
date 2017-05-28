@@ -18,9 +18,27 @@
   <string name="entry_type__special__miscellaneous">Misto</string>
   <string name="entry_type__special__water">Acqua</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">Mele</string>
+  <string name="entry_type__pear">Pere</string>
+  <string name="entry_type__cherry">Ciliegie</string>
+  <string name="entry_type__plum">Prugne</string>
+  <string name="entry_type__currant_red">Ribes rosso</string>
+  <string name="entry_type__grape">Uva</string>
+  <string name="entry_type__hazelnut">Nocciole</string>
   <string name="entry_type__milk">Latte</string>
+  <string name="entry_type__raspberry">Lamponi</string>
+  <string name="entry_type__walnut">Noci</string>
+  <string name="entry_type__carrot">Carote</string>
+  <string name="entry_type__cereal">Cereali</string>
+  <string name="entry_type__chili">Peperoncini rossi</string>
+  <string name="entry_type__corn">Mais</string>
+  <string name="entry_type__cucumber">Cetrioli</string>
+  <string name="entry_type__egg">Uova</string>
   <string name="entry_type__fish">Pesce</string>
+  <string name="entry_type__flower">Fiori</string>
   <string name="entry_type__honey">Miele</string>
+  <string name="entry_type__lemon">Limoni</string>
+  <string name="entry_type__mushroom">Funghi</string>
   <string name="entry_type__wood">Legna</string>
   <string name="entry_type__zucchini">Zucchine</string>
   <string name="entry_type__asparagus">Asparagi</string>
