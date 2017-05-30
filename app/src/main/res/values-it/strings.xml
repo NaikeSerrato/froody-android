@@ -69,5 +69,6 @@
   <string name="error_incomplete_input">Errore: inserimento incompleto</string>
   <string name="donate__bitcoin_id">1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5</string>
   <string name="donate__bitcoin_amount">0.01</string>
+  <string name="donate__bitcoin_message">Prendi da bere, e che sia una buona giornata</string>
   <string name="donate__bitcoin_url">https://gsantner.github.io/#donate</string>
 </resources>
