@@ -67,8 +67,4 @@
   <string name="report_bugs">バグを\n報告</string>
   <string name="about_the_app">アプリ\nについて</string>
   <string name="error_incomplete_input">エラー: 入力が不完全です</string>
-  <string name="donate__bitcoin_id">1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5</string>
-  <string name="donate__bitcoin_amount">0.01</string>
-  <string name="donate__bitcoin_message">少しのコーラと、そして素敵な一日を</string>
-  <string name="donate__bitcoin_url">https://gsantner.github.io/#donate</string>
 </resources>
