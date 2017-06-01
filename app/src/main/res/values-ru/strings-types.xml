@@ -18,7 +18,19 @@
   <string name="entry_type__special__miscellaneous">Прочее</string>
   <string name="entry_type__special__water">Вода</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">Яблоки</string>
+  <string name="entry_type__pear">Персики</string>
+  <string name="entry_type__cherry">Вишня</string>
+  <string name="entry_type__plum">Слива</string>
+  <string name="entry_type__currant_red">Красная смородина</string>
+  <string name="entry_type__grape">Виноград</string>
+  <string name="entry_type__hazelnut">Фундук</string>
   <string name="entry_type__milk">Молоко</string>
+  <string name="entry_type__raspberry">Малина</string>
+  <string name="entry_type__walnut">Грецкие орехи</string>
+  <string name="entry_type__carrot">Морковь</string>
+  <string name="entry_type__cereal">Злаки</string>
+  <string name="entry_type__chili">Перец Чили</string>
   <string name="entry_type__fish">Рыба</string>
   <string name="entry_type__honey">Мёд</string>
   <string name="entry_type__wood">Лекарст. травы</string>
