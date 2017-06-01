@@ -48,6 +48,7 @@
   <string name="error_cannot_publish_entry">Ошибка: невозможно опубликовать запись</string>
   <!-- Info -->
   <string name="show_licenses">Показать лицензии</string>
+  <string name="show_license_of_app">Показать лицензию</string>
   <string name="show_gplv3_license">Показать лицензию GNU GPLv3</string>
   <string name="show_third_party_licenses">Показать лицензии 3 сторон</string>
   <string name="more_information">Больше информации</string>
