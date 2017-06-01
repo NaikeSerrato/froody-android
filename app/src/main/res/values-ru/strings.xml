@@ -56,6 +56,7 @@
   <string name="request_location">Запросить местоположение</string>
   <string name="gps_locating_user">Местоположение&#8230;</string>
   <string name="address_most_near">Поблизости</string>
+  <string name="error_bad_permissions">Позвольте приложению Froody доступ к расположению вашего устройства.\n\nБез этого разрешения, вы не сможете публиковать записи во Froody и ваше текущее положение на карте не будет определено.\n\nВы также можете повторно определить своё текущее местоположение, нажав на Указатель в верхней панели инструментов.</string>
   <string name="show_map_on_current_location">Показать на карте текущее местоположение?</string>
   <string name="zoom_out">Уменьшить</string>
   <string name="cannot_locate_user">Невозможно определить местоположение пользователя. Пожалуйста включите определение местоположения по GPS в настройках!</string>
