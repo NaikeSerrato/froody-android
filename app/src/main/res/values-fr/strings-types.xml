@@ -18,11 +18,20 @@
   <string name="entry_type__special__miscellaneous">Divers</string>
   <string name="entry_type__special__water">Eau</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">Pommes</string>
+  <string name="entry_type__pear">Poires</string>
+  <string name="entry_type__plum">Prunes</string>
+  <string name="entry_type__hazelnut">Noisettes</string>
   <string name="entry_type__milk">Lait</string>
+  <string name="entry_type__raspberry">Framboises</string>
+  <string name="entry_type__walnut">Noix</string>
+  <string name="entry_type__carrot">Carottes</string>
+  <string name="entry_type__cereal">Céréales</string>
   <string name="entry_type__fish">Poisson</string>
   <string name="entry_type__honey">Miel</string>
   <string name="entry_type__wood">Bois</string>
   <string name="entry_type__zucchini">Courgette</string>
   <string name="entry_type__asparagus">Asperge</string>
   <string name="entry_type__garlic">Ail</string>
+  <string name="entry_type__salad">Salades</string>
 </resources>
