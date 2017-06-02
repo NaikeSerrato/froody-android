@@ -42,6 +42,7 @@
   <string name="entry_type__orange">Oranges</string>
   <string name="entry_type__peach">Pêches</string>
   <string name="entry_type__potato">Pommes de terre</string>
+  <string name="entry_type__sapling">Jeunes arbres</string>
   <string name="entry_type__strawberry">Fraises</string>
   <string name="entry_type__tomato">Tomates</string>
   <string name="entry_type__wood">Bois</string>
@@ -55,9 +56,11 @@
   <string name="entry_type__garlic">Ail</string>
   <string name="entry_type__onion">Oignons</string>
   <string name="entry_type__pea">Pois</string>
+  <string name="entry_type__pepper">Poivrons</string>
   <string name="entry_type__pumpkin">Citrouilles</string>
   <string name="entry_type__radish">Radis</string>
   <string name="entry_type__salad">Salades</string>
   <string name="entry_type__seed">Graines</string>
+  <string name="entry_type__soy_bean">Soja</string>
   <string name="entry_type__currant_black">Mûres</string>
 </resources>
